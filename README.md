@@ -291,6 +291,9 @@ The following assumptions were made while completing the assignment:
 * Git 2.x
 * GitHub
 
+### AI/Web
+* Chatgpt for error correction and documentation
+* Google search for clarity and cross checks
 ---
 
 # Final Notes
