@@ -7,7 +7,7 @@
 **Phone:** +977 9849785100 / +977 9851458100
 **LinkedIn:** https://linkedin.com/in/prosaugat
 **GitHub:** https://github.com/prosaugat
-**Blog/Portfolio:** https://saugatnepal.com.np/
+**Blog/Portfolio:** https://www.saugatnepal.com.np/
 
 ---
 
