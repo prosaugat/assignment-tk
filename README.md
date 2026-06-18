@@ -1,13 +1,13 @@
 # TechKraft - Senior DevOps/Infrastructure Engineer Take-Home Assignment
 
-## Candidate Information
+## Contact Info
 
 **Name:** Saugat Nepal
 **Email:** [prosaugat.np@gmail.com](mailto:prosaugat.np@gmail.com)
-**Professional Email:** [saugat@tech-integrators.com](mailto:saugat@tech-integrators.com)
-**Phone:** +977 9849785100
+**Phone:** +977 9849785100 / +977 9851458100
 **LinkedIn:** https://linkedin.com/in/prosaugat
 **GitHub:** https://github.com/prosaugat
+**Blog/Portfolio:** https://saugatnepal.com.np/
 
 ---
 
